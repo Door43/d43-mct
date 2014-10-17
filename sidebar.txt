@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mct:home|Door43 (mct)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mct|d43-mct repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mct/archive/master.zip|d43-mct.zip]]
+
+**Recent Changes**
+{{changes>ns = mct}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mct|Ethnologue data]]
+
